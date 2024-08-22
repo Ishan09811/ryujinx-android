@@ -33,6 +33,7 @@ setup_ryujinx_menu() {
     unzip /data/data/com.termux/files/home/ryujinx_menu.zip -d /data/data/com.termux/files/home/ryujinx_menu
     echo "alias Ryujinx='/data/data/com.termux/files/home/ryujinx_menu/ryujinx.sh'" >> ~/.bashrc
     source ~/.bashrc
+    chmod +x /data/data/com.termux/files/home/ryujinx_menu/ryujinx.sh
 }
 
 
