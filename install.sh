@@ -29,7 +29,7 @@ download_ryujinx() {
 }
 
 setup_ryujinx_menu() {
-    wget https://example.com/ryujinx_menu.zip -O /data/data/com.termux/files/home/ryujinx_menu.zip
+    wget https://raw.githubusercontent.com/Ishan09811/RyujinxMobile/main/ryujinx_menu.zip -O /data/data/com.termux/files/home/ryujinx_menu.zip
     unzip /data/data/com.termux/files/home/ryujinx_menu.zip -d /data/data/com.termux/files/home/ryujinx_menu
     echo "alias Ryujinx='/data/data/com.termux/files/home/ryujinx/ryujinx.sh'" >> ~/.bashrc
     source ~/.bashrc
@@ -80,6 +80,7 @@ main() {
     install_deps_proot
     install_mesa
     install_ryu
+    echo "Installation complete! You can now run Ryujinx by typing 'Ryujinx'."
 }
 
 main
