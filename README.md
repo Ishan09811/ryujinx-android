@@ -1,8 +1,7 @@
 <div align="center">
 
-# Ryujinx
+<img src="https://cdn.discordapp.com/attachments/1211024681218478171/1276808423022792786/1724485224594.png?ex=66cae002&is=66c98e82&hm=556fd19236b0f45ac905e5353000745009e111dedf1f927fe62fa95fc21d25b6&" alt="Ryujinx Banner" style="width: 40%;">
 
-A mobile workaround for [Ryujinx](https://github.com/Ryujinx/Ryujinx)
 </div>
 
 ## About
