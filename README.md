@@ -8,8 +8,7 @@ A mobile workaround for [Ryujinx](https://github.com/Ryujinx/Ryujinx)
 ## About
 
 This is a workaround using Termux to run Ryujinx on arm64 using Proot Ubuntu.
-> ***NOTE***\
-> Contributors are welcome. if you wish to contribute, join the discord server.
+
 ## Installation
 
 1. Download and install [Termux](https://github.com/termux/termux-app/releases) and [Termux-x11](https://github.com/termux/termux-x11/releases).
@@ -26,6 +25,8 @@ This is a workaround using Termux to run Ryujinx on arm64 using Proot Ubuntu.
 ## Contact Us
 
 Join us on [Discord](https://discord.com/invite/w2gTQUctbS)
+> ***NOTE***\
+> Contributors are welcome. if you wish to contribute, join the discord server.
 
 ## Special Thanks
 
