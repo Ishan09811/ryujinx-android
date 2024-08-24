@@ -26,7 +26,7 @@ This is a workaround using Termux to run Ryujinx on arm64 using Proot Ubuntu.
 
 Join us on [Discord](https://discord.com/invite/w2gTQUctbS)
 > ***NOTE***\
-> Contributors are welcome. if you wish to contribute, join the discord server.
+> Contributors are welcome. if you wish to contribute, please join the discord server.
 
 ## Special Thanks
 
